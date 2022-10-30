@@ -5,7 +5,7 @@ echo "Hello World!<br>";
 $nama ="Marisa";
 $umur =20;
 
-echo "Nama Saya <strong>$nama, saya berusia $umur tahun.</br>";
+echo "Nama Saya <strong>$nama</strong>, saya berusia $umur tahun.</br>";
 
 $namaAdik ="Rezta";
 $umurAdik ="19";
